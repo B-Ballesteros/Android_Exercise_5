@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">M1_JBBM_LABO_Frutas</string>
+
+    <string-array name="array_frutas">
+        <item>Platano</item>
+        <item>Piña</item>
+        <item>Naranja</item>
+        <item>Sandía</item>
+    </string-array>
+</resources>
